@@ -1,4 +1,0 @@
-{
-    "mongoURI":"mongodb+srv://ehsaan:5EI2uebaAaeWaSIq@minifyurl-o1gav.azure.mongodb.net/test?retryWrites=true&w=majority",
-    "baseURL": "http://www.minifyurl.ml"
-}
